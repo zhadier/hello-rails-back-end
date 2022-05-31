@@ -33,7 +33,7 @@
 - Clone this repo locally using git in the command line and the following command
 
 ```bash
-> git clone git@github.com:zhadier/hello-rails-react.git
+> git clone git@github.com:zhadier/hello-rails-back-end.git
 ```
 
 - Then cd into the directory using
