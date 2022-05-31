@@ -8,11 +8,9 @@
 
 ## Front End
 
-#### Access the Front End using the follwoing repo
+#### Access the Front End using the following repo
 
-```bash
-> https://github.com/zhadier/hello-react-front-end
-```
+[React Front end](https://github.com/zhadier/hello-react-front-end)
 
 ## Built With
 
