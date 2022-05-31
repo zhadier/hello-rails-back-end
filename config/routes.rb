@@ -1,5 +1,5 @@
 Rails.application.routes.draw do
-  namespace :v1, default: { format: JSON } do
-    resources :greetings, only: %i[index]
+  namespace :v1, defaults: { format: 'json' } do
+    get 'greetings', to: 'greetings#index'
   end
 end
