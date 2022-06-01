@@ -20,10 +20,6 @@
 
 ## Getting Started
 
-## Video Demo
-
-[Loom](https://www.loom.com/share/4140ea0d2a9b4573a8555e5c754df359)
-
 ### To launch the project locally:
 
 #### Step 1:
@@ -53,21 +49,14 @@
 - then setup the db using the following command in the CL
 
 ```bash
-> bin/rails db:setup
+> bin/rails db:setup db:seed
+
 ```
 
 - Finally, you can use this command to start the live server and checkout the app!
 
 ```bash
 > bin/rails s
-```
-
-## Testing:
-
-To perform tests, run the following command
-
-```bash
-> bundle exec rspec spec
 ```
 
 ## Authors
